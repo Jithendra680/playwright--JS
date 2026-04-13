@@ -1,0 +1,26 @@
+[
+  {
+    "testCaseName": "Quick Booking - Leo Messi",
+    "login": {
+      "username": "Pravin@greenwood.com",
+      "password": "Greenwood@123"
+    },
+    "stayDetails": {
+      "checkIn": "08/04/2026",
+      "checkInTime": "17:00",
+      "checkOut": "09/04/2026",
+      "checkOutTime": "12:00"
+    },
+    "roomDetails": {
+      "roomCount": "3",
+      "roomType": "Executive Room",
+      "packageName": "Executive Room with Breakfast(DBL)"
+    },
+    "guestDetails": {
+      "phone": "9854321092",
+      "email": "leomessi@gmail.com",
+      "firstName": "Leo",
+      "lastName": "Messi"
+    }
+  }
+]

@@ -1,0 +1,52 @@
+[
+  {
+    "testCaseName": "TPA Booking - MakeMyTrip",
+    "login": {
+      "username": "Pravin@greenwood.com",
+      "password": "Greenwood@123"
+    },
+    "stayDetails": {
+      "checkIn": "08/04/2026",
+      "checkInTime": "13:00",
+      "checkOut": "09/04/2026",
+      "checkOutTime": "12:00"
+    },
+    "reservation": {
+      "status": "Guaranteed",
+      "sourceCode": "Email",
+      "salesPerson": "Jithendra",
+      "marketSegment": "Corporate"
+    },
+    "tpaDetails": {
+      "profile": "MakeMyTrip",
+      "voucher": "5765765",
+      "ota": "MakeMyTrip"
+    },
+    "guests": {
+      "adults": "2",
+      "children": "0"
+    },
+    "roomDetails": {
+      "type": "Deluxe King",
+      "package": "Deluxe Room Only(DBL)"
+    },
+    "guestDetails": {
+      "phone": "6865865865",
+      "email": "randyorton@gmail.com",
+      "firstName": "Randy",
+      "lastName": "Orton",
+      "location": "America",
+      "specificLocation": "American Museum of Natural"
+    },
+    "additionalDetails": {
+      "iata": "535645766",
+      "gst": "456743564",
+      "depFlight": "64575687568",
+      "arrFlight": "674576768",
+      "preferences": "Non-Veg Food",
+      "resComments": "Early checkin",
+      "cashComments": "Welcome",
+      "billingInst": "Send Payment Details"
+    }
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "testCaseName": "Create Deluxe Room 100",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "011",
+      "roomName": "110",
+      "category": "Deluxe",
+      "subCategory": "First Floor"
+    },
+    "mapping": {
+      "posId": "6x701",
+      "roomType": "Deluxe",
+      "description": "Deluxe Room First Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Deluxe Room 101",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "002",
+      "roomName": "101",
+      "category": "Deluxe",
+      "subCategory": "First Floor"
+    },
+    "mapping": {
+      "posId": "6x702",
+      "roomType": "Deluxe",
+      "description": "Deluxe Room First Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Deluxe Room 102",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "003",
+      "roomName": "102",
+      "category": "Deluxe",
+      "subCategory": "First Floor"
+    },
+    "mapping": {
+      "posId": "6x703",
+      "roomType": "Deluxe",
+      "description": "Deluxe Room First Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Deluxe Room 103",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "004",
+      "roomName": "103",
+      "category": "Deluxe",
+      "subCategory": "First Floor"
+    },
+    "mapping": {
+      "posId": "6x704",
+      "roomType": "Deluxe",
+      "description": "Deluxe Room First Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Deluxe Room 104",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "005",
+      "roomName": "104",
+      "category": "Deluxe",
+      "subCategory": "First Floor"
+    },
+    "mapping": {
+      "posId": "6x705",
+      "roomType": "Deluxe",
+      "description": "Deluxe Room First Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Executive Room 200",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "006",
+      "roomName": "200",
+      "category": "Executive",
+      "subCategory": "Second Floor"
+    },
+    "mapping": {
+      "posId": "6x801",
+      "roomType": "Executive",
+      "description": "Executive Room Second Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Executive Room 201",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "007",
+      "roomName": "201",
+      "category": "Executive",
+      "subCategory": "Second Floor"
+    },
+    "mapping": {
+      "posId": "6x802",
+      "roomType": "Executive",
+      "description": "Executive Room Second Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Executive Room 202",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "008",
+      "roomName": "202",
+      "category": "Executive",
+      "subCategory": "Second Floor"
+    },
+    "mapping": {
+      "posId": "6x803",
+      "roomType": "Executive",
+      "description": "Executive Room Second Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Executive Room 203",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "009",
+      "roomName": "203",
+      "category": "Executive",
+      "subCategory": "Second Floor"
+    },
+    "mapping": {
+      "posId": "6x804",
+      "roomType": "Executive",
+      "description": "Executive Room Second Floor"
+    }
+  },
+  {
+    "testCaseName": "Create Executive Room 204",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "code": "010",
+      "roomName": "204",
+      "category": "Executive",
+      "subCategory": "Second Floor"
+    },
+    "mapping": {
+      "posId": "6x805",
+      "roomType": "Executive",
+      "description": "Executive Room Second Floor"
+    }
+  }
+]

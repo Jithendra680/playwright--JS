@@ -1,0 +1,42 @@
+[
+  {
+    "testCaseName": "Complete Booking Flow",
+    "login": {
+      "username": "Pravin@greenwood.com",
+      "password": "Greenwood@123"
+    },
+    "stayDetails": {
+      "checkInDate": "07/04/2026",
+      "checkInTime": "18:00",
+      "checkOutDate": "08/04/2026",
+      "checkOutTime": "12:00"
+    },
+    "reservation": {
+      "status": "Guaranteed",
+      "sourceCode": "Email",
+      "salesPerson": "Jithendra",
+      "marketSegment": "Corporate",
+      "adults": "2",
+      "children": "0",
+      "roomType": "Executive Room",
+      "package": "Executive Room with Breakfast(DBL)"
+    },
+    "guestDetails": {
+      "phoneNumber": "9085432197",
+      "email": "klrahul01@gmail.com",
+      "firstName": "Lokesh",
+      "lastName": "Rahul",
+      "location": "Bangalore"
+    },
+    "additionalDetails": {
+      "iata": "535645766",
+      "gst": "456743564",
+      "depFlight": "64575687568",
+      "arrFlight": "674576768",
+      "preferences": "Room Should Be Clean and Neat",
+      "resComments": "Early checkin",
+      "cashComments": "Welcome",
+      "billingInst": "Send Payment Details"
+    }
+  }
+]

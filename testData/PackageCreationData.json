@@ -1,0 +1,267 @@
+{
+  "login": {
+    "username": "admin@elaachi.com",
+    "password": "El@achi2024"
+  },
+  "scenarios": [
+    {
+      "testCaseName": "Deluxe Package 04",
+      "basicInfo": {
+        "name": "Deluxe Pkg - 04",
+        "code": "DP-004",
+        "source": "24 hours Check-in Time",
+        "roomType": "Deluxe"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 1,
+        "children": 0,
+        "maxOccupancy": 1,
+        "price": 4000,
+        "objectId": "OB-004"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Deluxe Room Package 04"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 100,
+        "objectId": "MB-004"
+      }
+    },
+    {
+      "testCaseName": "Deluxe Package 05",
+      "basicInfo": {
+        "name": "Deluxe Pkg - 05",
+        "code": "DP-005",
+        "source": "24 hours Check-in Time",
+        "roomType": "Deluxe"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 2,
+        "children": 2,
+        "maxOccupancy": 4,
+        "price": 6500,
+        "objectId": "OB-005"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Deluxe Room Package 05"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 300,
+        "objectId": "MB-005"
+      }
+    },
+    {
+      "testCaseName": "Executive Package 06",
+      "basicInfo": {
+        "name": "Executive Pkg - 06",
+        "code": "EP-006",
+        "source": "24 hours Check-in Time",
+        "roomType": "Executive"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 1,
+        "children": 0,
+        "maxOccupancy": 1,
+        "price": 10000,
+        "objectId": "OB-006"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Executive Room Package 06"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 300,
+        "objectId": "MB-006"
+      }
+    },
+    {
+      "testCaseName": "Executive Package 07",
+      "basicInfo": {
+        "name": "Executive Pkg - 07",
+        "code": "EP-007",
+        "source": "24 hours Check-in Time",
+        "roomType": "Executive"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 2,
+        "children": 1,
+        "maxOccupancy": 3,
+        "price": 12000,
+        "objectId": "OB-007"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Executive Room Package 07"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 400,
+        "objectId": "MB-007"
+      }
+    },
+    {
+      "testCaseName": "Executive Package 08",
+      "basicInfo": {
+        "name": "Executive Pkg - 08",
+        "code": "EP-008",
+        "source": "24 hours Check-in Time",
+        "roomType": "Executive"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 2,
+        "children": 0,
+        "maxOccupancy": 2,
+        "price": 11000,
+        "objectId": "OB-008"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Executive Room Package 08"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 350,
+        "objectId": "MB-008"
+      }
+    },
+    {
+      "testCaseName": "Executive Package 09",
+      "basicInfo": {
+        "name": "Executive Pkg - 09",
+        "code": "EP-009",
+        "source": "24 hours Check-in Time",
+        "roomType": "Executive"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 2,
+        "children": 2,
+        "maxOccupancy": 4,
+        "price": 15000,
+        "objectId": "OB-009"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Executive Room Package 09"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 500,
+        "objectId": "MB-009"
+      }
+    },
+    {
+      "testCaseName": "Executive Package 10",
+      "basicInfo": {
+        "name": "Executive Pkg - 10",
+        "code": "EP-010",
+        "source": "24 hours Check-in Time",
+        "roomType": "Executive"
+      },
+      "config": {
+        "taxes": [
+          "CGST-2.5%",
+          "SGST-2.5%"
+        ],
+        "amenities": [
+          "Breakfast",
+          "Free Wi-Fi",
+          "Non-Smoking Rooms"
+        ],
+        "validFrom": "10/04/2026",
+        "validTo": "30/04/2026",
+        "adults": 2,
+        "children": 0,
+        "maxOccupancy": 2,
+        "price": 14000,
+        "objectId": "OB-010"
+      },
+      "details": {
+        "facilities": "TV, AC, WiFi",
+        "description": "Executive Room Package 10"
+      },
+      "meal": {
+        "type": "Breakfast",
+        "rule": "Everyday except check in",
+        "price": 450,
+        "objectId": "MB-010"
+      }
+    }
+  ]
+}

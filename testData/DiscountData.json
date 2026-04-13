@@ -1,0 +1,32 @@
+[
+  {
+    "testCaseName": "Discount-50% Percentage",
+    "login": {
+      "username": "admin@elaachi.com",
+      "password": "El@achi2024"
+    },
+    "basicInfo": {
+      "name": "Discount-50%",
+      "code": "DIS-50%",
+      "description": "Festival Discount"
+    },
+    "config": {
+      "type": "Percentage (%)",
+      "value": "50"
+    },
+    "revenueCenters": [
+      "Front Desk",
+      "Room Service",
+      "Laundry",
+      "Housekeeping",
+      "Amenities"
+    ],
+    "dates": {
+      "startDate": "10/04/2026",
+      "endDate": "30/04/2026"
+    },
+    "usage": {
+      "maxPerReservation": "5"
+    }
+  }
+]

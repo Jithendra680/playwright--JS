@@ -1,5 +1,5 @@
 const { test, expect } = require('@playwright/test');
-const EhotlLoginPage = require('../../pages/EhotlLoginPage');
+const EhotlLoginPage = require('../pages/EhotlLoginPage');
 const loginDataRows = require('../testData/loginData.json');
 
 for (const row of loginDataRows) {

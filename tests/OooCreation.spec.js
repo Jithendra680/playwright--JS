@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
-const LoginPage = require('../../pages/EhotlLoginPage');
-const OooCreationPage = require('../../pages/OooCreationPage');
+const LoginPage = require('../pages/EhotlLoginPage');
+const OooCreationPage = require('../pages/OooCreationPage');
 
 test('Successfully Put Room Out of Order (OOO)', async ({ page }) => {
   const loginPage = new LoginPage(page);

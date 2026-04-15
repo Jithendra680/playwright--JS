@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
-const LoginPage = require('../../pages/EhotlLoginPage');
-const GroupBookingPage = require('../../pages/GroupBookingPage');
+const LoginPage = require('../pages/EhotlLoginPage');
+const GroupBookingPage = require('../pages/GroupBookingPage');
 const groupBookingData = require('../testData/GroupBookingData.json');
 
 for (const data of groupBookingData) {

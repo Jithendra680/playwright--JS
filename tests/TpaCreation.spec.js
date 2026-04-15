@@ -1,6 +1,6 @@
 const { test, expect } = require('@playwright/test');
-const LoginPage = require('../../pages/EhotlLoginPage');
-const TpaCreationPage = require('../../pages/TpaCreationPage');
+const LoginPage = require('../pages/EhotlLoginPage');
+const TpaCreationPage = require('../pages/TpaCreationPage');
 
 test('Successfully Create New TPA Account (Redbull)', async ({ page }) => {
   const loginPage = new LoginPage(page);
